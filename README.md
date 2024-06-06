@@ -1,4 +1,4 @@
-**Collections-Java-Appi**
+**Collections-Java-Api**
 <hr>
 
 **Coleções**
